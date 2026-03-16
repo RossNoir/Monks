@@ -24,7 +24,7 @@ archive/
 *.pt
 *.pth
 *.ckpt
-CLAUDE.md
+* CLAUDE.md
 
 # OS
 .DS_Store
