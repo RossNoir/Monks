@@ -1,0 +1,28 @@
+{
+    "ai_model": "gpt-oss:20b",
+    "batch_count": "1",
+    "topic": "",
+    "characters": {
+        "JERRY": {
+            "speed": "0.9",
+            "seed": "1367480622"
+        },
+        "GEORGE": {
+            "speed": "1.0",
+            "seed": "907921044"
+        },
+        "ELAINE": {
+            "speed": "0.8",
+            "seed": "1011302649"
+        },
+        "KRAMER": {
+            "speed": ".9",
+            "seed": "1462993541"
+        }
+    },
+    "audio_production": {
+        "intro_file": "C:/Users/dna51/Desktop/Seinfeld/intro bed.wav",
+        "ender_file": "C:/Users/dna51/Desktop/Seinfeld/ender2.wav",
+        "dialogue_delay": "4.2"
+    }
+}

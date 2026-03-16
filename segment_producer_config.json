@@ -1,0 +1,41 @@
+{
+    "ai_model": "gpt-oss:20b",
+    "batch_count": "1",
+    "topic": "",
+    "num_speakers": "1",
+    "speakers": [
+        {
+            "name": "",
+            "ref_audio": "",
+            "ref_transcript": "",
+            "speed": "1.0",
+            "seed": "-1"
+        },
+        {
+            "name": "",
+            "ref_audio": "",
+            "ref_transcript": "",
+            "speed": "1.0",
+            "seed": "-1"
+        },
+        {
+            "name": "",
+            "ref_audio": "",
+            "ref_transcript": "",
+            "speed": "1.0",
+            "seed": "-1"
+        },
+        {
+            "name": "",
+            "ref_audio": "",
+            "ref_transcript": "",
+            "speed": "1.0",
+            "seed": "-1"
+        }
+    ],
+    "audio_production": {
+        "intro_file": "",
+        "ender_file": "",
+        "dialogue_delay": "5.0"
+    }
+}
